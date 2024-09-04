@@ -17,7 +17,7 @@
 ### Pickup
 - Munición
 - La pistola al encontrarla
-- Notas de papel
+- Notas de papel que hablen un poco acerca de la historia
 - Mapa (solo activa el minimapa, no funcionaría como un mapa completo del juego)
 
 ### Equipamiento
